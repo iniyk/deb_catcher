@@ -1,0 +1,5 @@
+http://packages.ubuntu.com/trusty/gcc
+http://packages.ubuntu.com/trusty/automake1.9
+http://packages.ubuntu.com/trusty/gcc-doc
+http://packages.ubuntu.com/trusty/gdb
+http://packages.ubuntu.com/trusty/make
